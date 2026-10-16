@@ -1,0 +1,5 @@
+
+# waterplane phone↔repo transport — do not commit
+.claude/inbox
+.claude/outbox
+.outbox
